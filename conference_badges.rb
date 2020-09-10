@@ -7,6 +7,7 @@ end
 def batch_badge_creator(attendees)
   new_array = []
   badges.each{|attendee| "Hello, my name is #{name}."}
+  
 end
 
 def assign_rooms(list)
