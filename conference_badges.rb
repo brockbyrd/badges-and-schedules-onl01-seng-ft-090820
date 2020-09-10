@@ -9,5 +9,7 @@ def batch_badge_creator(badges)
 end
 
 def assign_rooms(list)
-  rooms = 1
+  rooms = 1..7
+  
+  
 end
