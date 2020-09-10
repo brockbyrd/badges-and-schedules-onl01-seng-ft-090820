@@ -11,5 +11,5 @@ end
 def assign_rooms(list)
   rooms = 1..7
   
-  array.each_with_index
+  array.each_with_index{ 
 end
